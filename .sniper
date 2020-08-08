@@ -1,0 +1,4 @@
+name = "sniper"
+version = "0.1.0"
+authors = ["Alexander Fedosov <alexander.a.fedosov@gmail.com>"]
+edition = "2018"
